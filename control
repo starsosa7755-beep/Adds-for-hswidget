@@ -1,0 +1,9 @@
+Package: com.nona.hswidgetsstudio
+Name: HSWidgets Studio
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: A starter widget for HSWidgets Studio. Requires HSWidgets.
+Maintainer: HSWidgets Studio
+Author: HSWidgets Studio
+Section: Tweaks
+Depends: mobilesubstrate, com.dgh0st.hswidgets
