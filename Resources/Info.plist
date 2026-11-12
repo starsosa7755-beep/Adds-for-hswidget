@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.nona.hswidgetsstudio.widget</string>
+    <key>CFBundleName</key>
+    <string>HSWidgets Studio</string>
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+    <key>CFBundleVersion</key>
+    <string>0.1.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>NSPrincipalClass</key>
+    <string>HSWStudioWidgetViewController</string>
+    <key>HSWidgetDisplayName</key>
+    <string>Create Widget</string>
+    <key>HSWidgetCreator</key>
+    <string>HSWidgets Studio</string>
+</dict>
+</plist>
